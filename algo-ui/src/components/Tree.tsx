@@ -19,7 +19,7 @@ const Tree = (props: any) => {
 
   return (
     <>
-      <label>Please Enter Comma Seperated Data: </label>
+      <label>Please enter comma-seperated data: </label>
       <input
         name="TreeData"
         value={treeData}
